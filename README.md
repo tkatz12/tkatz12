@@ -6,14 +6,14 @@ Background spans data engineering, applied analytics, and ERP implementation con
 
 ## Projects
 
-**[DOT Risk Analyzer](https://github.com/tkatz12/dot-risk-analyzer)** — Full-stack tool that computes schedule risk for DOT construction projects using Critical Path Method analysis. Flask backend, React frontend, deployed and live.
-[Live demo](https://dot-risk-analyzer-app.vercel.app)
-
 **[Car Crash Analysis](https://github.com/tkatz12/Car-Crash-Analysis)** — K-Means clustering and regression analysis on a car crash dataset.
 
 **[Page Rank](https://github.com/tkatz12/Page_Rank)** — From-scratch implementation of Google's original PageRank algorithm.
 
 **[AVL Tree](https://github.com/tkatz12/AVL_BST)** — AVL self-balancing binary search tree implementation for unique student ID lookups.
+
+**[DOT Risk Analyzer](https://github.com/tkatz12/dot-risk-analyzer)** — Full-stack tool that computes schedule risk for DOT construction projects using Critical Path Method analysis. Flask backend, React frontend, deployed and live.
+[Live demo](https://dot-risk-analyzer-app.vercel.app)
 
 ## Background
 
